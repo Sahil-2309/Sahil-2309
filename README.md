@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>GitHub README</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon.css">
 </head>
 <body>
     <h1 align="center">Hi there! 👋, I'm Sahil Arora</h1>
