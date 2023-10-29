@@ -30,7 +30,6 @@
 
  <h3 align="center">Tools and Technologies</h3>
     <p align="center">Here are the skills and technologies I'm familiar with:</p>
-
     <p align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="100" height="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="100" height="100">
